@@ -1,6 +1,2 @@
-# Ignore Emacs buffer files
-*#
-*~
-
-# Ignore executable file
-*.out
+# Auto detect text files and perform LF normalization
+* text=auto
